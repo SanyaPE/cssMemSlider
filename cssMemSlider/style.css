@@ -6,6 +6,9 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+html{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
 body{
     background-color: gray;
 }
