@@ -71,13 +71,13 @@ body{
     border-radius: 2px;
     transition: all .4s ease;
 }
-/* .btn span{
+.btn span{
     position: absolute;
     width: 100%;
     top: -80%;
     display: inline-block;
     padding: 10px;
-} */
+}
 .btn:hover{
     opacity: 0.8;
     background-color: rgb(40, 40, 40);
